@@ -1,0 +1,8 @@
+License.txt
+README.md
+setup.py
+numPrimosMmarbonillo/__init__.py
+numPrimosMmarbonillo.egg-info/PKG-INFO
+numPrimosMmarbonillo.egg-info/SOURCES.txt
+numPrimosMmarbonillo.egg-info/dependency_links.txt
+numPrimosMmarbonillo.egg-info/top_level.txt
